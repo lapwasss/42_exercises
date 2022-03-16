@@ -1,5 +1,5 @@
 # 42_exercises
-I'm not a 42 student, i'm doing this for fun :)
+I'm not a 42 student, i'm doing this for fun
 
 # Norminette
 https://github.com/42Paris/norminette-v3
